@@ -1,2 +1,2 @@
 # test1
-test ibu
+test ibu for git command demonstration
